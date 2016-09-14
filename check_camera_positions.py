@@ -19,7 +19,7 @@ for i, name in enumerate(cam_files[0:10]):
 	ax = fig.add_subplot(1,10,i+1, projection='3d')
 
 	data = np.loadtxt(name)
-	for j in arange(len(data[:,0]))
+	for j in arange(len(data[:,0])):
 		ax.plot([0,0,0], [data[j, 0], data[j,1],data[j,2]],'k-')
 
 
