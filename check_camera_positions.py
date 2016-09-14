@@ -16,7 +16,7 @@ fig = figure(figsize = (30,5))
 
 for i, name in enumerate(cam_files[0:10]):
 	print name
-	ax = fig.add_subplot(1,10,i+1,, projection='3d')
+	ax = fig.add_subplot(1,10,i+1, projection='3d')
 
 	data = np.loadtxt(name)
 	for j in arange(len(data[:,0]))
