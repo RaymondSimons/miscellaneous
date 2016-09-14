@@ -19,6 +19,7 @@ cam_files = glob.glob(rundir+'/*/input/*cameras')
 
 
 for i, name in enumerate(cam_files):
+	print i
 	os.system('cp '+name+' .')
 	'''
 	print name
