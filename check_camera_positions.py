@@ -5,7 +5,7 @@ import os
 
 #import matplotlib.pyplot as plt
 #from mpl_toolkits.mplot3d import Axes3D
-plt.close('all')
+#plt.close('all')
 
 
 rundir = '/nobackupp2/gfsnyder/VELA_sunrise/Runs/VELA_v2/VELA28'
