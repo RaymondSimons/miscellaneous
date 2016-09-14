@@ -11,7 +11,7 @@ rundir = '/nobackupp2/gfsnyder/VELA_sunrise/Runs/VELA_v2/VELA28'
 cam_files = glob.glob(rundir+'/*/input/*cameras')
 
 
-fig = figure(figsize = (30,5))
+fig = plt.figure(figsize = (30,5))
 
 
 for i, name in enumerate(cam_files[0:10]):
