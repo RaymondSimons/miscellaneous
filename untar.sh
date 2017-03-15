@@ -1,13 +1,10 @@
 tar -xf images_VELA02_a0.370_sunrise.tar &
 tar -xf images_VELA20_a0.370_sunrise.tar &
-tar -xf images_VELA34_a0.370_sunrise.tar &
 tar -xf images_VELA24_a0.370_sunrise.tar &
 tar -xf images_VELA26_a0.370_sunrise.tar &
 tar -xf images_VELA10_a0.370_sunrise.tar &
-tar -xf images_VELA30_a0.370_sunrise.tar &
 tar -xf images_VELA27_a0.370_sunrise.tar &
 tar -xf images_VELA23_a0.370_sunrise.tar &
-tar -xf images_VELA14_a0.370_sunrise.tar &
 tar -xf images_VELA09_a0.370_sunrise.tar &
 tar -xf images_VELA06_a0.370_sunrise.tar &
 tar -xf images_VELA25_a0.370_sunrise.tar &
@@ -15,19 +12,14 @@ tar -xf images_VELA03_a0.370_sunrise.tar &
 tar -xf images_VELA28_a0.370_sunrise.tar &
 tar -xf images_VELA21_a0.370_sunrise.tar &
 tar -xf images_VELA15_a0.370_sunrise.tar &
-tar -xf images_VELA17_a0.370_sunrise.tar &
-tar -xf images_VELA12_a0.370_sunrise.tar &
 tar -xf images_VELA13_a0.370_sunrise.tar &
-tar -xf images_VELA19_a0.370_sunrise.tar &
+tar -xf images_VELA12_a0.370_sunrise.tar &
 tar -xf images_VELA33_a0.370_sunrise.tar &
 tar -xf images_VELA05_a0.370_sunrise.tar &
 tar -xf images_VELA04_a0.370_sunrise.tar &
 tar -xf images_VELA07_a0.370_sunrise.tar &
-tar -xf images_VELA32_a0.370_sunrise.tar &
 tar -xf images_VELA01_a0.370_sunrise.tar &
 tar -xf images_VELA29_a0.370_sunrise.tar &
 tar -xf images_VELA08_a0.370_sunrise.tar &
 tar -xf images_VELA22_a0.370_sunrise.tar &
 tar -xf images_VELA11_a0.370_sunrise.tar &
-
-
