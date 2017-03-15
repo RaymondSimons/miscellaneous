@@ -2,10 +2,10 @@ import glob
 from glob import glob
 import os
 
+a = '0.350'
+im_flnames = glob('/nobackupp2/gfsnyder/VELA_sunrise/Runs/VELA_v2/VELA*/*_a%s_sunrise/images/images_*_a%s_sunrise.tar'%(a,a))
 
-im_flnames = glob('/nobackupp2/gfsnyder/VELA_sunrise/Runs/VELA_v2/VELA*/*_a0.350_sunrise/images/images_*_a0.350_sunrise.tar')
-
-for fl in im_flnames:
+for n, fl in enumerate(im_flnames:
     print fl
 
 
